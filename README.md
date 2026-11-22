@@ -9,7 +9,7 @@
 * ⚡ Passionate about building projects and solving problems
 
 
-
+---
 ##  🛠️ Tech Stack & Skills
 
 
@@ -48,6 +48,8 @@ A MERN Stack service marketplace connecting clients with service providers.
 * Node.js
 * Express.js
 * MongoDB
+  
+---
 
 #### 🔹 Diabetes Prediction Using Machine Learning
 
