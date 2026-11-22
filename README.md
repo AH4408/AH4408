@@ -8,7 +8,7 @@
 * 🔧 Interested in Software Development and building scalable applications
 * ⚡ Passionate about building projects and solving problems
 
----
+
 
 ##  🛠️ Tech Stack & Skills
 
