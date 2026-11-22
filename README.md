@@ -40,7 +40,7 @@
 
 ## 🚀 Projects
 
-#### 🔹 SkillConnect
+### 🔹 SkillConnect
 
 A MERN Stack service marketplace connecting clients with service providers.
 
@@ -51,21 +51,13 @@ A MERN Stack service marketplace connecting clients with service providers.
   
 ---
 
-#### 🔹 Diabetes Prediction Using Machine Learning
+### 🔹 Diabetes Prediction Using Machine Learning
 
 A machine learning project focused on predicting diabetes using health-related data.
 
 * Python
 * Machine Learning
 * Data Analysis
-
----
-
-## 🌱 Open Source
-
-Currently exploring and contributing to open-source projects.
-
-* Check out my repositories to see what I’m working on!
 
 ---
 
