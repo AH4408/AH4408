@@ -44,21 +44,30 @@
 
 A MERN Stack service marketplace connecting clients with service providers.
 
+**Tech Stack:** 
+
 * React.js
 * Node.js
 * Express.js
 * MongoDB
   
+  🔗 [View Project](https://github.com/AH4408/SkillConnect)
 ---
 
-### 🔹 Diabetes Prediction Using Machine Learning
+### 🌱 Smart Salinity Ingress & Coastal Farmland Protection Advisor
 
-A machine learning project focused on predicting diabetes using health-related data.
+An Agentic AI-powered agricultural advisory platform designed to monitor coastal salinity ingress and protect farmland in Gujarat. Features specialized AI agents for salinity monitoring, crop recommendations, irrigation planning, farmer alerts, and farmland health dashboards.
 
-* Python
-* Machine Learning
-* Data Analysis
+**Tech Stack:**
 
+* React
+* Node.js
+* Express
+* MongoDB
+* IBM Granite 
+* IBM watsonx.ai
+
+  🔗 [View Project](https://github.com/AH4408/Smart-Salinity-Advisor)
 ---
 
 ## 🤝 Connect With Me
