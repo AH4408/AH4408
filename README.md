@@ -12,6 +12,7 @@
 
 ##  🛠️ Tech Stack & Skills
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -35,7 +36,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-⸻
+---
 
 ## 🚀 Projects
 
@@ -56,7 +57,7 @@ A machine learning project focused on predicting diabetes using health-related d
 * Machine Learning
 * Data Analysis
 
-⸻
+---
 
 ## 🌱 Open Source
 
@@ -64,8 +65,7 @@ Currently exploring and contributing to open-source projects.
 
 * Check out my repositories to see what I’m working on!
 
-⸻
-
+---
 
 ## 🤝 Connect With Me
 
