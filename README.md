@@ -67,7 +67,7 @@ An Agentic AI-powered agricultural advisory platform designed to monitor coastal
 * IBM Granite 
 * IBM watsonx.ai
 
-  🔗 [View Project](https://github.com/AH4408/Smart-Salinity-Advisor)
+  🔗 [View Project]((https://github.com/AH4408/salinity-advisor.git))
 ---
 
 ## 🤝 Connect With Me
