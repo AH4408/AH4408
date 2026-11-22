@@ -1,4 +1,4 @@
-👋 Hi, I’m Aadi Patel
+# 👋 Hi, I’m Aadi Patel
 
 🎓 Third-Year BTech Information Technology Student
 
@@ -8,9 +8,9 @@
 * 🔧 Interested in Software Development and building scalable applications
 * ⚡ Passionate about building projects and solving problems
 
-───
+---
 
-🛠️ Tech Stack & Skills
+##  🛠️ Tech Stack & Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -37,9 +37,9 @@
 
 ⸻
 
-🚀 Projects
+## 🚀 Projects
 
-🔹 SkillConnect
+#### 🔹 SkillConnect
 
 A MERN Stack service marketplace connecting clients with service providers.
 
@@ -48,7 +48,7 @@ A MERN Stack service marketplace connecting clients with service providers.
 * Express.js
 * MongoDB
 
-🔹 Diabetes Prediction Using Machine Learning
+#### 🔹 Diabetes Prediction Using Machine Learning
 
 A machine learning project focused on predicting diabetes using health-related data.
 
@@ -58,7 +58,7 @@ A machine learning project focused on predicting diabetes using health-related d
 
 ⸻
 
-🌱 Open Source
+## 🌱 Open Source
 
 Currently exploring and contributing to open-source projects.
 
@@ -66,16 +66,8 @@ Currently exploring and contributing to open-source projects.
 
 ⸻
 
-📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-⸻
-
-🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
