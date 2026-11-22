@@ -8,7 +8,7 @@
 * 🔧 Interested in Software Development and building scalable applications
 * ⚡ Passionate about building projects and solving problems
 
-───────────────────────────────────────────────────
+───
 
 🛠️ Tech Stack & Skills
 
@@ -85,3 +85,8 @@ Currently exploring and contributing to open-source projects.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+
+
+
+
